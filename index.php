@@ -1,6 +1,4 @@
 <?php
-
-
 $navLinks = ['Inicio', 'Sobre mí', 'Habilidades', 'Proyectos', 'Contacto'];
 $navIds   = ['inicio', 'sobre', 'habilidades', 'proyectos', 'contacto'];
 
