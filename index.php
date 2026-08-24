@@ -27,7 +27,7 @@ $stats = [
     ['icon' => '📅', 'value' => '2+',   'label' => 'Años de experiencia'],
     ['icon' => '🚀', 'value' => '2+',   'label' => 'Proyectos completados'],
     ['icon' => '😊', 'value' => '10+',  'label' => 'Clientes satisfechos'],
-    ['icon' => '💯', 'value' => '100%', 'label' => 'Comprometido'],
+    ['icon' => '💯', 'value' => '100%', 'label' => 'Compromiso'],
 ];
 
 $projects = [
