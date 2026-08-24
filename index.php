@@ -1,7 +1,6 @@
 <?php
 $navLinks = ['Inicio', 'Sobre mí', 'Habilidades', 'Proyectos', 'Contacto'];
 $navIds   = ['inicio', 'sobre', 'habilidades', 'proyectos', 'contacto'];
-
 $skills = [
     ['name' => 'HTML5',            'icon' => '🌐', 'desc' => 'Estructura semántica y accesible para la web.'],
     ['name' => 'CSS3',  'icon' => '🎨', 'desc' => 'Estilos responsivos y diseño de interfaces modernas.'],
